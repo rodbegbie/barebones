@@ -1,0 +1,208 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Rod Begbie :: A Ripping Good Time</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script pagespeed_no_defer="" type="text/javascript" src="//use.typekit.net/oar7yon.js"></script>
+    <script pagespeed_no_defer="" type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="/fontawesome/css/font-awesome.css" rel="stylesheet" media="screen">
+    <script src="/bootstrap/js/jquery-1.8.3.js"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body>
+   <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="brand" href="http://begbie.com/">Rod Begbie</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    <h1>I am the ghost of groovymother.com. Woooooo!</h1>
+
+    <div class="row">
+        <div class="span12">
+          <div class="alert">
+            <p>This is an old page from <a href="http://begbie.com/">Rod Begbie</a>'s blog.</p>
+
+            <p>It only exists in an attempt
+                to prevent linkrot. No new content will be added to this site, and links and images are liable to be broken.  Check out <a href="http://begbie.com/">begbie.com</a>
+                to find where I'm posting stuff these days.
+            </p>
+          </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span12">
+            <h2>A Ripping Good Time</h2>
+                
+    
+
+
+
+<h3 class="date"><a href="/2005/aug/16/">&#x27a0;</a> August 16, 2005</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="postentry entry">
+        
+        <a name="001992"></a>
+        
+        <h4>A Ripping Good Time</h4>
+        <p>For anyone who is unaware, my dayjob is in the R&amp;D section of a high-end home entertainment systems manufacturer&#8230; Let&#8217;s call them <em>RhymesWithNose</em>.  Since starting last December at <em>RhymesWithNose</em>, I&#8217;ve come to re-love my music collection.  Spending so much time dealing with technology to make music-listening more enjoyable made me realise how little of my ridiculously large music collection I listened to.  (Although in fairness, some of it is stunningly crap.  Why do I own <em>both</em> of <a href="http://www.netzone.co.uk/tempest/boo/boo.html" title="Betty Boo's Home Page">Betty Boo</a>&#8216;s albums?)</p>
+
+<p>I have a huge amount of bedroom wallspace taken up by poorly-constructed and wobbly CD racks, which barely get touched because I have been listening almost exclusively to music on my iPod for the last four years.  Buy a CD, rip it, chuck it in the shelves, play it a couple of times, then delete all the tracks except the singles because I&#8217;m running out of space again.</p>
+
+<p>But those times are over.  Hard disks are cheap and CD <span class="caps">ROM</span> drives are fast, so I&#8217;ve embarked on a journey, ripping my entire CD collection in shiny lossless <a href="http://flac.sourceforge.net/" title="FLAC - Free Lossless Audio Codec"><span class="caps">FLAC</span></a>.</p>
+
+<p>Of course, being a musicgeek, I couldn&#8217;t just use some off-the-shelf ripping software.  I want this to be the last time these CDs will ever see a red laser, and have very exacting standards for my metadata.  So I pulled out Python and rolled my own.  Once I&#8217;ve given the software a bit more of a workout, I&#8217;ll <span class="caps">GPL</span> it and shove it up here.</p>
+
+<p>A doff of my metaphorical cap, then, to two open-source projects which made writing my own ripper the proverbial piece of piss.</p>
+
+<p>First up, the glorious free and open land of metadata that is <a href="http://musicbrainz.org/" title="Welcome to MusicBrainz!">MusicBrainz</a>.  Like FreeDB, if it were not full of typos and duplicates.  Like <span class="caps">AMG</span>, but free, editable, open and not limited to the US.  Like <span class="caps">CDDB</span>, except not run by evil thieving fucks.  I&#8217;m able to identify discs, manipulate the data, and tag my files with barely any effort on my part.  And any data I have which is missing there, I&#8217;m happy to contribute back.</p>
+
+<p>The other project I&#8217;ve fallen helplessly head-over-heels for is <a href="http://gstreamer.freedesktop.org/" title="GStreamer Open Multimedia Framework">GStreamer</a>.  This is a Linux multimedia project which is designed to abstract away all complexity from dealing with multimedia files.  You just pick a source, pass it through encoders or decoders, then send it to a destination.</p>
+
+<p>Ripping is a few lines of code to set up the source (<a href="http://www.xiph.org/paranoia/" title="CDDA Paranoia Homepage">CDParanoia</a>), the encoder (FLAC) and the destination (a file).  Transcoding to something suitable for my iPod becomes a batch script going &#8220;file -> <span class="caps">FLAC</span> decoder -> MP3 encoder -> file&#8221;.  It&#8217;s almost brain-dead, leaving me more time to worry about more pressing issues.</p>
+
+<p>Such as why the hell I have four <a href="http://www.b-witched.com/" title="The Official B*Witched Website">B*Witched</a> singles <em>and</em> their debut album.</p>
+        <div class="row-fluid">
+            <div class="span10">
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                <a href="/2005/aug/16/a_ripping_good_time/#comments">1 comment</a> |
+                <a rel="bookmark" href="/2005/aug/16/a_ripping_good_time/" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+</div>
+
+    
+
+    
+        <hr>
+        <h3 id="comments">Comments</h3>
+
+        
+            <div class="comment_odd" id="c10">
+                <h4>On Wednesday, August 17, 2005,
+                    
+                    Alison
+                    commented:
+                </h4>
+                <p>Get a loife.</p>
+            </div>
+        
+
+    
+
+
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+    
+        <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-8431319264174931";
+/* Leaderboard for GroovyMother */
+google_ad_slot = "3813014872";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+    
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="span4">
+            
+            <h4>About This Site</h4>
+
+<p>
+This is an archive of groovmother.com, the old blog run by
+<strong>Rod Begbie</strong> &mdash; A Scottish geek who lives in San Francisco, CA.</p>
+
+<p>I'm the co-founder of <a href="http://sosh.com/">Sōsh</a>, your handy-dandy guide for <a href="http://sosh.com/">things to do in San Francisco this weekend</a>.</p>
+
+<ul>
+    <li><a href="http://begbie.com/">About Rod</a></li>
+    <li><a href="/about/contact/">Contact Rod</a></li>
+    <li><a href="/about/oaq/">Occasionally Asked Questions</a></li>
+</ul>
+
+            
+        </div>
+        <div class="span4">
+            
+            
+            
+        </div>
+        <div class="span4">
+            
+            <h4>Powered By</h4>
+
+<ul>
+    <li><a href="http://www.djangoproject.com/">Django</a></li>
+    <li><a href="http://nginx.net/">nginx</a></li>
+    <li><a href="http://www.python.org/">Python</a></li>
+    <li><a href="http://typekit.com/colophons/oar7yon">Typekit</a></li>
+    <li><a href="http://www.vpslink.com/?ref=MGSB0S">VPSLink</a></li>
+</ul>
+
+            
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
