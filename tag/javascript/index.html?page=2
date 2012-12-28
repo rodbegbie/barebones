@@ -1,0 +1,1293 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Rod Begbie :: Filed under 'javascript'</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script pagespeed_no_defer="" type="text/javascript" src="//use.typekit.net/oar7yon.js"></script>
+    <script pagespeed_no_defer="" type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="/fontawesome/css/font-awesome.css" rel="stylesheet" media="screen">
+    <script src="/bootstrap/js/jquery-1.8.3.js"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body>
+   <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="brand" href="http://begbie.com/">Rod Begbie</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    <h1>I am the ghost of groovymother.com. Woooooo!</h1>
+
+    <div class="row">
+        <div class="span12">
+          <div class="alert">
+            <p>This is an old page from <a href="http://begbie.com/">Rod Begbie</a>'s blog.  It's only here
+                to stop linkrot. No new content will be added to this site.  Check out <a href="http://begbie.com/">begbie.com</a>
+                to find where I'm posting stuff these days.
+            </p>
+          </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span12">
+            <h2>Filed under 'javascript'</h2>
+                
+
+    
+
+
+
+<h3 class="date"><a href="/2008/may/08/">&#x27a0;</a> May 8, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="processingjs" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://ejohn.org/blog/processingjs/">Processing.js</a></h4>
+
+        
+            
+        
+
+        <p>John Resig has ported the Processing visualization language to JavaScript, using the &lt;canvas&gt; tag.  John is officially one of the most scary-smart people I know.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/canvas/">canvas</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/johnresig/">john resig</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/processing/">processing</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/visualization/">visualization</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/jeresig/statuses/806914365" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/18/#processingjs" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/may/06/">&#x27a0;</a> May 6, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="unobtrusive-javascript-jquery" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://simonwillison.net/static/2008/xtech/">Unobtrusive JavaScript with jQuery</a></h4>
+
+        
+            
+        
+
+        <p>Some great tips from Simon Willison on using JQuery effectively.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/jquery/">jquery</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/simonwillison/">simon willison</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/unobtrusivejavascript/">unobtrusive javascript</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/18/#unobtrusive-javascript-jquery" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="vi-javascript" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://gpl.internetconnection.net/vi/">vi in JavaScript</a></h4>
+
+        
+            
+        
+
+        <p>Just what the internet needed&#8230; a vi clone implemented in JavaScript.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/bizarre/">bizarre</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/vi/">vi</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/techpickles/statuses/804819810" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/18/#vi-javascript" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/feb/08/">&#x27a0;</a> February 8, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="sniff-browser-history-improved" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.niallkennedy.com/blog/2008/02/browser-history-sniff.html">Sniff browser history for improved user experience</a></h4>
+
+        
+            
+        
+
+        <p>Clever hack &#8212; sniff a user&#8217;s browser history, work out what blogreading/bookmarking/OpenID sites they use, and reduce clutter by only display options for those sites.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/niallkennedy/">niall kennedy</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/privacy/">privacy</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/43folders" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/5/#sniff-browser-history-improved" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/nov/06/">&#x27a0;</a> November 6, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="gmailgreasemonkey10api" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://code.google.com/p/gmail-greasemonkey/wiki/GmailGreasemonkey10API">GmailGreasemonkey10API - gmail-greasemonkey - Google Code</a></h4>
+
+        
+            
+        
+
+        <p>GMail&#8217;s new interface exposes an object with the specific intent of making it easier to write less-fragile GreaseMonkey scripts which interact with the application.  Nice idea.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/gmail/">gmail</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/google/">google</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/greasemonkey/">greasemonkey</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/wearehugh" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/45/#gmailgreasemonkey10api" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/oct/23/">&#x27a0;</a> October 23, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="10-really-useful-flickr-grease" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://digital-photography-school.com/blog/10-really-useful-flickr-userscripts/">10 Really Useful Flickr Greasemonkey Userscripts</a></h4>
+
+        
+            
+        
+
+        <p>Some of these look wicked handy.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/flickr/">flickr</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/greasemonkey/">greasemonkey</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/jzawodn" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/43/#10-really-useful-flickr-grease" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/sep/19/">&#x27a0;</a> September 19, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="strategy-letter-vi" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.joelonsoftware.com/items/2007/09/18.html">Strategy Letter VI - Joel on Software</a></h4>
+
+        
+            
+        
+
+        <p>Good article on where Joel sees web development going &#8212; some kind of higher-level language that compiles down to Javascript, HTML, and whatever else runs in browsers.  I think there needs to be &#8220;Assembler programmers don’t have groupies.&#8221; t-shirts.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/joelspolsky/">joel spolsky</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/38/#strategy-letter-vi" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/sep/17/">&#x27a0;</a> September 17, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="jquery-ui" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://ui.jquery.com/">jQuery UI: Widgets, Components, and Interactions</a></h4>
+
+        
+            
+        
+
+        <p>UI and effects library from the JQuery team.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/jquery/">jquery</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/jeresig/statuses/273754412" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/38/#jquery-ui" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jul/02/">&#x27a0;</a> July 2, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="firebug-iphone" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.joehewitt.com/blog/firebug_for_iph.php">JoeHewitt.com - Firebug for iPhone</a></h4>
+
+        
+            
+        
+
+        <p>Debug JavaScript pages displayed on your iPhone from the comfort of your PC.  Clever stuff.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/firebug/">firebug</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/iphone/">iPhone</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/joehewitt/">joe hewitt</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://www.blakeross.com/2007/07/01/firebug-for-iphone/" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/27/#firebug-iphone" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jun/25/">&#x27a0;</a> June 25, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="john-lam-software-steve-yegge-" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.iunknown.com/2007/06/steve-yegge-por.html">John Lam on Software: Steve Yegge ported Rails to JavaScript</a></h4>
+
+        
+            
+        
+
+        <p>Rails ported to JavaScript running on top of a JVM.  My head asplode!</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/java/">java</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/rails/">rails</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/steveyegge/">steve yegge</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/dsandler" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/26/#john-lam-software-steve-yegge-" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/may/22/">&#x27a0;</a> May 22, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="jquery-reference-widget" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://blog.medallia.com/2007/05/jquery_dashboard_widget.html">Medallia Blog: jQuery Reference Widget</a></h4>
+
+        
+            
+        
+
+        <p>Dashboard widget for the JQuery docs.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/dashboard/">dashboard</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/download/">download</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/free/">free</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/jquery/">jquery</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/osx/">os x</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/widget/">widget</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://ajaxian.com/archives/jquery-roundup-rails-wordpress-and-new-plugins" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/21/#jquery-reference-widget" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/apr/19/">&#x27a0;</a> April 19, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="corner-js" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.netzgesta.de/corner/">Corner.js</a></h4>
+
+        
+            
+        
+
+        <p>Add nice corners and shadows to your images with just a smidge of JavaScript.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/images/">images</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://ma.gnolia.com/people/factoryjoe/bookmarks/zukuscedu" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/16/#corner-js" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/apr/13/">&#x27a0;</a> April 13, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="ie-webdeveloper-v2" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.ieinspector.com/dominspector/index.html">IE WebDeveloper V2</a></h4>
+
+        
+            
+        
+
+        <p>Firebug-a-like for IE.  If this works as advertised, it could be indispensable for cross-browser Javascriptery.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/download/">download</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/ie/">ie</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/webdev/">webdev</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/yoz/statuses/26835271" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/15/#ie-webdeveloper-v2" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/mar/09/">&#x27a0;</a> March 9, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="ajax3d-demo" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://ajax3d.sourceforge.net/">Ajax3d Demo</a></h4>
+
+        
+            
+        
+
+        <p>Holy crap!  It&#8217;s Zarch of &#8220;Just about the only game you can play on your school&#8217;s Acorn Archimedes&#8221; fame, redone in JavaScript.  Now to find &#8220;Mad Professor Mariati&#8221; and a RISC OS emulator&#8230;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/ajax3d/">ajax3d</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/awesome/">AWESOME!</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/holycrap/">holy crap!</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/zarch/">zarch</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://simonwillison.net/2007/Mar/9/ajax3d/" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/10/#ajax3d-demo" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/feb/27/">&#x27a0;</a> February 27, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="swfir-swf-image-replacement" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.swfir.com/">swfIR: swf Image Replacement</a></h4>
+
+        
+            
+        
+
+        <p>Cunning use of Flash and Javascript to enable &#8220;special effects&#8221; (borders, rotation and shadows) on images in web pages cleanly.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/flash/">flash</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/swfir/">swfir</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://dev.upian.com/hotlinks/archives/2007/02/27/#item70762" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/9/#swfir-swf-image-replacement" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jan/15/">&#x27a0;</a> January 15, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="jquery-11" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://jquery.com/blog/2007/01/14/jquery-birthday-11-new-site-new-docs/">jQuery: jQuery Birthday: 1.1, New Site, New Docs</a></h4>
+
+        
+            
+        
+
+        <p>New version of JQuery cleans up the API and reportedly speeds things up.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/jquery/">jquery</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/3/#jquery-11" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jan/10/">&#x27a0;</a> January 10, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="offline-gmail-and-blogger" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.sitepen.com/blog/2007/01/09/28/">SitePen Blog » Offline Gmail and Blogger Using the Dojo Offline Toolkit</a></h4>
+
+        
+            
+        
+
+        <p>First stages of the Dojo &#8220;offline toolkit&#8221;: Mockups imagining how it could be used to make GMail or Blogger usable when you don&#8217;t have an active net connection.  Looks like it could be a game-changer.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/blogger/">blogger</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/dojo/">dojo</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/gmail/">gmail</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/offline/">offline</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://simonwillison.net/2007/Jan/10/sitepen/" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/2/#offline-gmail-and-blogger" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/dec/04/">&#x27a0;</a> December 4, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="firebug_lite" >
+
+        
+        <a name="003147"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.getfirebug.com/lite.html">Firebug Lite</a></h4>
+
+        
+
+        <p>Wonderful!  A lightweight implementation of the Firefox-only Firebug javascript debugger which you can embed into your pages for cross-browser debugging.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/firebug/">firebug</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/49/#firebug_lite" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/nov/16/">&#x27a0;</a> November 16, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="firebug" >
+
+        
+        <a name="003092"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.getfirebug.com/">Firebug</a></h4>
+
+        
+
+        <p>Version 1.0 of Firebug is on the horizon, and it looks about 75% more kick-assier than the current release, which is saving my life at the moment as I do some JavaScript ftuff at work.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/awesome/">AWESOME!</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/firebug/">firebug</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/firefox/">firefox</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/plugin/">plugin</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://dev.upian.com/hotlinks/archives/2006/11/17/#item65825" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/46/#firebug" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/nov/02/">&#x27a0;</a> November 2, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="yahoo_ui_librar" >
+
+        
+        <a name="003050"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://developer.yahoo.com/yui/">Yahoo! UI Library (YUI)</a></h4>
+
+        
+
+        <p>Wicked-nifty Javascript UI library, generously open-sourced by Yahoo.  Using this with Django and Lucene, I was able to knock out a pretty decent AJAXy autocompleting search box within 24 hours of opening my big yap in a meeting and suggesting it as a feature.  (The &#8220;Design Pattern Library&#8221; is also worth a read to anyone who juggles HTML)</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/ajax/">ajax</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/free/">free</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/html/">html</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/oss/">oss</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/ui/">ui</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/yahoo/">yahoo</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/yui/">yui</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/44/#yahoo_ui_librar" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+    <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-8431319264174931";
+/* Leaderboard for GroovyMother */
+google_ad_slot = "3813014872";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="span4">
+            
+            <h4>About This Site</h4>
+
+<p>
+This is an archive of groovmother.com, the old blog run by
+<strong>Rod Begbie</strong> &mdash; A Scottish geek who lives in San Francisco, CA.</p>
+
+<p>I'm the co-founder of <a href="http://sosh.com/">Sōsh</a>, your handy-dandy guide for <a href="http://sosh.com/">things to do in San Francisco this weekend</a>.</p>
+
+<ul>
+    <li><a href="http://begbie.com/">About Rod</a></li>
+    <li><a href="/about/contact/">Contact Rod</a></li>
+    <li><a href="/about/oaq/">Occasionally Asked Questions</a></li>
+</ul>
+
+            
+        </div>
+        <div class="span4">
+            
+
+<div class="sidebartitle">Navigation</div>
+<div class="sidebarcontent">
+    <p><strong>Page 2 of 3</strong></p>
+    <p>
+    <a href="./?page=1">Previous page</a>
+    |
+    <a href="./?page=3">Next page</a>
+    </p>
+</div>
+
+
+
+
+
+        </div>
+        <div class="span4">
+            
+            <h4>Powered By</h4>
+
+<ul>
+    <li><a href="http://www.djangoproject.com/">Django</a></li>
+    <li><a href="http://nginx.net/">nginx</a></li>
+    <li><a href="http://www.python.org/">Python</a></li>
+    <li><a href="http://typekit.com/colophons/oar7yon">Typekit</a></li>
+    <li><a href="http://www.vpslink.com/?ref=MGSB0S">VPSLink</a></li>
+</ul>
+
+            
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

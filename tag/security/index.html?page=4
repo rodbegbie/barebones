@@ -1,0 +1,1256 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Rod Begbie :: Filed under 'security'</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script pagespeed_no_defer="" type="text/javascript" src="//use.typekit.net/oar7yon.js"></script>
+    <script pagespeed_no_defer="" type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="/fontawesome/css/font-awesome.css" rel="stylesheet" media="screen">
+    <script src="/bootstrap/js/jquery-1.8.3.js"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body>
+   <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="brand" href="http://begbie.com/">Rod Begbie</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    <h1>I am the ghost of groovymother.com. Woooooo!</h1>
+
+    <div class="row">
+        <div class="span12">
+          <div class="alert">
+            <p>This is an old page from <a href="http://begbie.com/">Rod Begbie</a>'s blog.  It's only here
+                to stop linkrot. No new content will be added to this site.  Check out <a href="http://begbie.com/">begbie.com</a>
+                to find where I'm posting stuff these days.
+            </p>
+          </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span12">
+            <h2>Filed under 'security'</h2>
+                
+
+    
+
+
+
+<h3 class="date"><a href="/2006/dec/14/">&#x27a0;</a> December 14, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="schneier_on_sec_3" >
+
+        
+        <a name="003181"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.schneier.com/blog/archives/2006/12/realworld_passw.html">Schneier on Security: Real-World Passwords</a></h4>
+
+        
+
+        <p>Bruce Schneier breaks down the password data gathered by a MySpace phishing attack.  Notable fact:  When the site insists upon including letters and numbers in the password, folks just append &#8220;1&#8221; to their usual password.  (And, in my experience, when forced to change their password every few months, just cycle the number)</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/bruceschneier/">bruceschneier</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/passwords/">passwords</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/usdp/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/50/#schneier_on_sec_3" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/dec/13/">&#x27a0;</a> December 13, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="macosxhintscom" >
+
+        
+        <a name="003176"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.macosxhints.com/article.php?story=2006120918170984">macosxhints.com - Take iSight snapshots during invalid login attempts</a></h4>
+
+        
+
+        <p>Nice security hack to find anyone trying to get into your laptop.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/isight/">isight</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/osx/">os x</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/hybernaut" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/50/#macosxhintscom" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/nov/30/">&#x27a0;</a> November 30, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="nmap_online" >
+
+        
+        <a name="003131"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://nmap-online.com/">Nmap Online</a></h4>
+
+        
+
+        <p>Run NMap from a remote host.  Useful for testing your local firewall.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/firewall/">firewall</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/nmap/">nmap</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://dev.upian.com/hotlinks/archives/2006/11/30/#item66348" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/48/#nmap_online" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/nov/22/">&#x27a0;</a> November 22, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="ask_the_pilot_s" >
+
+        
+        <a name="003103"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.salon.com/tech/col/smith/2006/11/22/askthepilot210/">Ask the pilot | Salon Technology</a></h4>
+
+        
+
+        <p>Patrick Smith&#8217;s mother causes confusion at the airline security counter:  Is it OK to take marinara sauce (which is a liquid) onto a plane if it&#8217;s frozen (which makes it a solid)?  Ah, I feel safer already.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/fuckwits/">fuckwits</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tsa/">tsa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://www.schneier.com/blog/archives/2006/11/tsa_security_ro_1.html" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/47/#ask_the_pilot_s" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/nov/16/">&#x27a0;</a> November 16, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="cracked_it_spec" >
+
+        
+        <a name="003091"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.guardian.co.uk/idcards/story/0,,1950226,00.html">Cracked it! | Special reports | Guardian Unlimited</a></h4>
+
+        
+
+        <p>FFS.  Detailed explanation of the how&#8217;s and why&#8217;s of reading/cloning a UK RFID-chipped passport &#8212; which don&#8217;t even have the tinfoil protective cover that US passports will.  &#8220;&#8216;This doesn&#8217;t matter,&#8217; says a Home Office spokesman.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/adamlaurie/">adam laurie</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/grauniad/">grauniad</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/passport/">passport</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/rfid/">rfid</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://philwilson.org/blog/2006/11/uk-biometric-passports-cracked.html" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/46/#cracked_it_spec" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/oct/28/">&#x27a0;</a> October 28, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="fulldisclosure" >
+
+        
+        <a name="003034"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://lists.grok.org.uk/pipermail/full-disclosure/2006-October/050378.html">[Full-disclosure] RFID enabled e-passport skimming proof of concept code released (RFIDIOt)</a></h4>
+
+        
+
+        <p>&#8220;This program will exchange crypto keys with the [RFID-chipped] passport and read and display the contents therein, including the facial image and the personal data printed in the passport.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/adamlaurie/">adam laurie</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/rfid/">rfid</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/jm" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/43/#fulldisclosure" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/oct/05/">&#x27a0;</a> October 5, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="unlikely_terror" >
+
+        
+        <a name="002977"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.cbsnews.com/stories/2006/10/05/60minutes/main2066624.shtml">Unlikely Terrorists On No-Fly List, Steve Kroft Reports List Includes President Of Bolivia, Dead 9/11 Hijackers - CBS News</a></h4>
+
+        
+
+        <p>CBS News has got their hands on the TSA&#8217;s &#8220;No-Fly List&#8221;.  Sucks to be a Gary Smith or a Robert Johnson.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/noflylist/">noflylist</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tsa/">tsa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/l17j/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/40/#unlikely_terror" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="google_code_sea" >
+
+        
+        <a name="002974"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.google.com/codesearch">Google Code Search</a></h4>
+
+        
+
+        <p>Google search for open-source code.  Is there a use for this beyond doing mass-searches for vulnerabilities?</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/code/">code</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/google/">google</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/kybd/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/40/#google_code_sea" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/oct/01/">&#x27a0;</a> October 1, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="new_airtravel_g" >
+
+        
+        <a name="002960"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.theonion.com/content/node/53536">New Air-Travel Guidelines | The Onion - America&#39;s Finest News Source</a></h4>
+
+        
+
+        <p>&#8220;The ban was a necessary precaution. We have to be willing to make these kinds of sacrifices if we&#8217;re going to prevent scientifically impossible terrorist attacks.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/funny/">funny</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/theonion/">the onion</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tsa/">tsa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://www.schneier.com/blog/archives/2006/10/the_onion_on_ts.html" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/40/#new_airtravel_g" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/sep/26/">&#x27a0;</a> September 26, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="postentry entry">
+        
+        <a name="002950"></a>
+        
+        <h4>Something I Learned Today Going Through Security at Logan Airport</h4>
+        <p>When they say that, due to <a href="http://www.tsa.gov/press/happenings/9-25_updated_passenger_guidance.shtm">relaxed heightened security measures</a>, you can only take &#8220;travel sized toothpaste&#8221; through the security checkpoint when flying, offering to squeeze out the excess toothpaste from your regular sized tube until it weighs less than 3oz won&#8217;t cut it.</p>
+
+<p>But the unamused reaction to my offer from the <span class="caps">TSA</span> agent was fun, so I think I&#8217;m going to purchase another full sized tube and offer again on my flight back.</p>
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/toothpaste/">toothpaste</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tsa/">tsa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                <a href="/2006/sep/26/something_i_lea/#comments">0 comments</a> |
+                <a rel="bookmark" href="/2006/sep/26/something_i_lea/" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/aug/18/">&#x27a0;</a> August 18, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="faces_too_are_s" >
+
+        
+        <a name="002887"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.nytimes.com/2006/08/17/washington/17screeners.html?ei=5090&amp;en=8636975a2f266b72&amp;ex=1313467200&amp;partner=rssuserland&amp;emc=rss&amp;pagewanted=all">Faces, Too, Are Searched at U.S. Airports - New York Times</a></h4>
+
+        
+
+        <p>Good move by the TSA:  Investing in training screeners with the ability to pick out suspicious characters at the airport; skills that can be used regardless of whether a &#8220;bad guy&#8221; is planning on using liquids, boxcutters, or dental floss as part of their &#8220;plot&#8221;.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tsa/">tsa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://www.kottke.org/remainder/06/08/11680.html" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/33/#faces_too_are_s" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/aug/15/">&#x27a0;</a> August 15, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="how_to_break_we" >
+
+        
+        <a name="002871"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://video.google.com/videoplay?docid=5159636580663884360">How To Break Web Software - A look at security vulnerabilities in web software - Google Video</a></h4>
+
+        
+
+        <p>Google TechTalk from one of the authors of &#8220;How to Break Web Software&#8221;.  </p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/googletechtalk/">googletechtalk</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/video/">video</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/pip" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/33/#how_to_break_we" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/aug/14/">&#x27a0;</a> August 14, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="nikto" >
+
+        
+        <a name="002870"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.cirt.net/code/nikto.shtml">Nikto</a></h4>
+
+        
+
+        <p>Vulnerability scanner purely aimed at web servers.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/apache/">apache</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/nikto/">nikto</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://dev.upian.com/hotlinks/archives/2006/08/15/#item60825" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/33/#nikto" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/aug/13/">&#x27a0;</a> August 13, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="us_to_launch_rf" >
+
+        
+        <a name="002868"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.engadget.com/2006/08/12/us-to-launch-rfid-passports-on-monday/">US to launch RFID passports on Monday</a></h4>
+
+        
+
+        <p>Joy&#8217;s new passport arrived yesterday (Yes, for our international travel on Friday.  We Begbies are noted for our inability to have our passports ready far in advance of travel).  Luckily, this means she&#8217;s avoiding the RFID nightmare for ten years.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/passport/">passport</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/rfid/">rfid</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/33/#us_to_launch_rf" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="schneier_on_sec_2" >
+
+        
+        <a name="002866"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.schneier.com/blog/archives/2006/08/terrorism_secur.html">Schneier on Security: Last Week&#39;s Terrorism Arrests</a></h4>
+
+        
+
+        <p>Bruce Schneier on the futility of banning liquids from carry-on luggage in the long-term.  I imagine that that&#8217;s not going to stop the TSA, though.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/bruceschneier/">bruceschneier</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/33/#schneier_on_sec_2" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/aug/06/">&#x27a0;</a> August 6, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="youtube_bump_ke" >
+
+        
+        <a name="002841"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.youtube.com/watch?v=7Uv45y6vkcQ&amp;search=bump%20key">YouTube - Bump keying</a></h4>
+
+        
+
+        <p>Practically every lock out there can be opened with a filed-down key and a hammer.  Methinks home insurance premiums are about to go up.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/bumpkeying/">bumpkeying</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/cg8y/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/32/#youtube_bump_ke" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/jul/21/">&#x27a0;</a> July 21, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="the_editorial_c" >
+
+        
+        <a name="002731"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.claybennett.com/pages/10_29_01.html">The Editorial Cartoons of Clay Bennett:  Security vs. Privacy</a></h4>
+
+        
+
+        <p>Excellent cartoon.  From October 2001, but still as true today, sadly.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/claybennett/">claybennett</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/funny/">funny</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/privacy/">privacy</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/anj0/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/29/#the_editorial_c" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/jul/10/">&#x27a0;</a> July 10, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="on_crypto_syste" >
+
+        
+        <a name="002680"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.interesting-people.org/archives/interesting-people/200607/msg00058.html">on crypto systems from CTO PGP</a></h4>
+
+        
+
+        <p>Rebuttal of the theory that the government are mass-cracking encrypted data.  &#8220;If you want to brute-force a key, it literally takes a planet-ful of computers&#8230; Now of course, there are other ways to break the system.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/encryption/">encryption</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/pgp/">pgp</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/dsandler" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/28/#on_crypto_syste" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/may/14/">&#x27a0;</a> May 14, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="lock_the_vault" >
+
+        
+        <a name="002470"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.unfogged.com/archives/week_2006_05_07.html#004924">&quot;Lock The Vault? What Kind Of Maniac Would Steal Money From A Bank?&quot;</a></h4>
+
+        
+
+        <p>Diebold voting machines are found to be easily re-flashable by anyone wanting to invisibly rig an election.  Diebold spokesman: &#8220;I don&#8217;t believe these evil elections people exist.&#8221;  I have not the words.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/diebold/">diebold</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/fuckwits/">fuckwits</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://dev.upian.com/hotlinks/archives/2006/05/14/#item56486" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/20/#lock_the_vault" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/apr/12/">&#x27a0;</a> April 12, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="mozdevorg_tamperdata_index" >
+
+        
+        <a name="002384"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://tamperdata.mozdev.org/">mozdev.org - tamperdata: index</a></h4>
+
+        
+
+        <p>A Firefox extension that allows you to tweak your HTTP (and HTTPS) requests and responses in real-time.  I used to use the Achilles proxy for this, back in the day.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/download/">download</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/firefox/">firefox</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/http/">http</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/plugin/">plugin</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/yoz/top" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/15/#mozdevorg_tamperdata_index" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+    <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-8431319264174931";
+/* Leaderboard for GroovyMother */
+google_ad_slot = "3813014872";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="span4">
+            
+            <h4>About This Site</h4>
+
+<p>
+This is an archive of groovmother.com, the old blog run by
+<strong>Rod Begbie</strong> &mdash; A Scottish geek who lives in San Francisco, CA.</p>
+
+<p>I'm the co-founder of <a href="http://sosh.com/">Sōsh</a>, your handy-dandy guide for <a href="http://sosh.com/">things to do in San Francisco this weekend</a>.</p>
+
+<ul>
+    <li><a href="http://begbie.com/">About Rod</a></li>
+    <li><a href="/about/contact/">Contact Rod</a></li>
+    <li><a href="/about/oaq/">Occasionally Asked Questions</a></li>
+</ul>
+
+            
+        </div>
+        <div class="span4">
+            
+
+<div class="sidebartitle">Navigation</div>
+<div class="sidebarcontent">
+    <p><strong>Page 4 of 6</strong></p>
+    <p>
+    <a href="./?page=3">Previous page</a>
+    |
+    <a href="./?page=5">Next page</a>
+    </p>
+</div>
+
+
+
+
+
+        </div>
+        <div class="span4">
+            
+            <h4>Powered By</h4>
+
+<ul>
+    <li><a href="http://www.djangoproject.com/">Django</a></li>
+    <li><a href="http://nginx.net/">nginx</a></li>
+    <li><a href="http://www.python.org/">Python</a></li>
+    <li><a href="http://typekit.com/colophons/oar7yon">Typekit</a></li>
+    <li><a href="http://www.vpslink.com/?ref=MGSB0S">VPSLink</a></li>
+</ul>
+
+            
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

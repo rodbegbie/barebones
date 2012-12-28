@@ -1,0 +1,1281 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Rod Begbie :: Filed under 'security'</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script pagespeed_no_defer="" type="text/javascript" src="//use.typekit.net/oar7yon.js"></script>
+    <script pagespeed_no_defer="" type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="/fontawesome/css/font-awesome.css" rel="stylesheet" media="screen">
+    <script src="/bootstrap/js/jquery-1.8.3.js"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body>
+   <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="brand" href="http://begbie.com/">Rod Begbie</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    <h1>I am the ghost of groovymother.com. Woooooo!</h1>
+
+    <div class="row">
+        <div class="span12">
+          <div class="alert">
+            <p>This is an old page from <a href="http://begbie.com/">Rod Begbie</a>'s blog.  It's only here
+                to stop linkrot. No new content will be added to this site.  Check out <a href="http://begbie.com/">begbie.com</a>
+                to find where I'm posting stuff these days.
+            </p>
+          </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span12">
+            <h2>Filed under 'security'</h2>
+                
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jul/11/">&#x27a0;</a> July 11, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="fake-bomb-eludes-airport-test" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://timesunion.com/AspStories/story.asp?storyID=603177&amp;category=REGIONOTHER&amp;BCCode=&amp;newsdate=7/9/2007">Fake bomb eludes airport test -- Times Union - Albany NY</a></h4>
+
+        
+            
+        
+
+        <p>Hooray for the TSA and their water-divining machinery.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/fuckwits/">fuckwits</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tsa/">tsa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/257ol/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/28/#fake-bomb-eludes-airport-test" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/may/07/">&#x27a0;</a> May 7, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="free-public-wifi-not" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://blogs.chron.com/techblog/archives/2006/09/free_public_wif.html">TechBlog: &quot;Free Public WiFi&quot;? Not!</a></h4>
+
+        
+            
+        
+
+        <p>Spotted this SSID appear as an ad-hoc wifi network here at [RhymesWithNose].  Guessed it was some nasty malware &#8212; turns out to be &#8220;viral&#8221;, but not in that way!</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/adhoc/">adhoc</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/freepublicwifi/">free public wifi</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/ssid/">ssid</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/wifi/">wi-fi</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/19/#free-public-wifi-not" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/may/06/">&#x27a0;</a> May 6, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="how-credit-card-data-went-out" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://online.wsj.com/article_email/article_print/SB117824446226991797-lMyQjAxMDE3NzA4NDIwNDQ0Wj.html">How Credit-Card Data Went Out Wireless Door - WSJ.com</a></h4>
+
+        
+            
+        
+
+        <p>The TJX credit-card hack originated from a poorly set-up wireless network at a Marshall&#8217;s store in Minnesota.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/creditcards/">credit cards</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tjx/">tjx</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/wep/">wep</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/wifi/">wi-fi</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/jm" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/19/#how-credit-card-data-went-out" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/apr/24/">&#x27a0;</a> April 24, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="paypal-security-key" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="https://www.paypal.com/securitykey">PayPal Security Key</a></h4>
+
+        
+            
+        
+
+        <p>For $5, PayPal will give you a SecurID-type keyfob to make it much harder for anyone to penetrate your account.  I&#8217;ve been carrying mine for a couple of months now.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/authentication/">authentication</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/paypal/">paypal</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/phising/">phising</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/twofactor/">two-factor</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/17/#paypal-security-key" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/apr/12/">&#x27a0;</a> April 12, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="deceit-augmented-mitm" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://paranoia.dubfire.net/2007/04/deceit-augmented-man-in-middle-attack.html">slight paranoia: A Deceit-Augmented Man In The Middle Attack Against Bank of America&#39;s SiteKey Service</a></h4>
+
+        
+            
+        
+
+        <p>Those anti-phishing &#8220;pick a photo and a phrase that must be displayed when you login to your bank&#8221; systems?  Work-aroundable by smart-enough phishers.  Wonder where the arms race goes next?</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/phishing/">phishing</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/sitekey/">sitekey</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://rss.slashdot.org/~r/Slashdot/slashdot/~3/108564250/article.pl" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/15/#deceit-augmented-mitm" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/apr/10/">&#x27a0;</a> April 10, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="oreilly-php-becoming-mainstrea" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://radar.oreilly.com/archives/2007/04/php_becoming_ma.html">O&#39;Reilly Radar &gt; PHP Becoming Mainstream</a></h4>
+
+        
+            
+        
+
+        <p>&#8220;PHP and MySQL For Dummies&#8221; is currently the top-selling PHP book.  Attention malicious types:  There will soon be even more half-assed easily-attackable PHP sites on the internet for your delectation.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/php/">php</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/theinternetisdoomed/">the internet is doomed</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/15/#oreilly-php-becoming-mainstrea" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/apr/07/">&#x27a0;</a> April 7, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="time-stands-still" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.pittsburghlive.com/x/tribunereview/news/westmoreland/s_501066.html">Time stands still for Hempfield teen in lockup - Tribune-Review</a></h4>
+
+        
+            
+        
+
+        <p>Kid phones a school hotline an hour before someone phones in a bomb threat.  Unfortunately, the school hadn&#8217;t adjusted for the new DST switch, so he got hauled into juvenile detention for twelve days.  &#8220;County juvenile detention officials wanted to keep Webb in custody, Andrews said. &#8220;They wanted him to have a mental health evaluation because he wouldn&#8217;t admit to making the call.&#8221; &#8221;  Frightening.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/fuckwits/">fuckwits</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/1fzdd/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/14/#time-stands-still" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/mar/26/">&#x27a0;</a> March 26, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="openid-phishing" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://openid.marcoslot.net/">Beginner&#39;s guide to OpenID phishing</a></h4>
+
+        
+            
+        
+
+        <p>Good overview of the phishing risks inherit in OpenID &#8212; Is it essentially doomed by providers limiting authentication to easily stealable usernames &amp; passwords?</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/openid/">openid</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/phishing/">phishing</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://simonwillison.net/2007/Mar/23/beginners/" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/13/#openid-phishing" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/mar/19/">&#x27a0;</a> March 19, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="eurion-constellation" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://en.wikipedia.org/wiki/EURion_constellation">EURion constellation - Wikipedia, the free encyclopedia</a></h4>
+
+        
+            
+        
+
+        <p>I knew of the security feature that prevents scanning/photocopying modern paper currency, but I hadn&#8217;t heard this name for it.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/forgery/">forgery</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/money/">money</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/dsandler" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/12/#eurion-constellation" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/mar/08/">&#x27a0;</a> March 8, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="link-fingerprints" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.gerv.net/security/link-fingerprints/">Link Fingerprints</a></h4>
+
+        
+            
+        
+
+        <p>Shame this hasn&#8217;t been implemented anywhere yet.  Strikes me as an eminently sensible low-cost way to reduce the dangers of unsigned downloads.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/url/">url</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/wearehugh" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/10/#link-fingerprints" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/feb/22/">&#x27a0;</a> February 22, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="schneier-security-cya-security" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.schneier.com/blog/archives/2007/02/cya_security_1.html">Schneier on Security: CYA Security</a></h4>
+
+        
+            
+        
+
+        <p>I U+2665 Bruce Schneier.  &#8220;Much of our country&#8217;s counterterrorism security spending is not designed to protect us from the terrorists, but instead to protect our public officials from criticism when another attack occurs.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/bruceschneier/">bruceschneier</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/tsa/">tsa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/jm" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/8/#schneier-security-cya-security" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/feb/21/">&#x27a0;</a> February 21, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="anti-terror-case-data-flawed" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://news.yahoo.com/s/ap/20070220/ap_on_go_ot/terror_prosecutions">Audit: Anti-terror case data flawed - Yahoo! News</a></h4>
+
+        
+            
+        
+
+        <p>&#8220;Federal prosecutors counted immigration violations, marriage fraud and drug trafficking among anti-terror cases in the four years after 9/11 even though no evidence linked them to terror activity, a Justice Department audit said Tuesday.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/fuckwits/">fuckwits</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/politics/">Politics</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/usa/">usa</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://reddit.com/info/15pob/comments" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/8/#anti-terror-case-data-flawed" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/feb/06/">&#x27a0;</a> February 6, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="apple-thoughts-music" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.apple.com/hotnews/thoughtsonmusic/">Apple - Thoughts on Music</a></h4>
+
+        
+            
+        
+
+        <p>Steve Jobs publicly calls for the record companies to drop their requirement for DRM on online music sales: &#8220;Imagine a world where every online store sells DRM-free music encoded in open licensable formats. [&#8230;] This is clearly the best alternative for consumers, and Apple would embrace it in a heartbeat.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/apple/">apple</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/drm/">drm</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/ipod/">iPod</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/itunes/">iTunes</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/music/">music</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://daringfireball.net/linked/2007/february#tue-06-jobs_thoughts_on_music" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/6/#apple-thoughts-music" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/feb/05/">&#x27a0;</a> February 5, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="antifraud-measures-ineffective" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.nytimes.com/2007/02/05/technology/05secure.html?ex=1328331600&amp;en=295ec5d0994b0755&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">Study Finds Web Antifraud Measure Ineffective - New York Times</a></h4>
+
+        
+            
+        
+
+        <p>I&#8217;ve always suspected that these &#8220;Select your image and don&#8217;t enter your password if you don&#8217;t see it&#8221; systems were broken &#8212; Asking users to behave differently when something is *missing*, which they&#8217;re liable to forget even *existed*, is not security by any stretch.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/passmark/">passmark</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/phishing/">phishing</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://it.slashdot.org/article.pl?sid=07/02/05/1323243&amp;from=rss" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/6/#antifraud-measures-ineffective" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jan/24/">&#x27a0;</a> January 24, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="install-pwdhash-now" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://crazybob.org/2007/01/install-pwdhash-now.html">crazybob.org: Install PwdHash, now.</a></h4>
+
+        
+            
+        
+
+        <p>Firefox extension for generating marginally-more-secure passwords.  Use your same password everywhere, but hash it against the website&#8217;s domain name.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/firefox/">firefox</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/password/">password</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/plugin/">plugin</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://www.somebits.com/linkblog/" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/4/#install-pwdhash-now" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jan/18/">&#x27a0;</a> January 18, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="9-block-ip-identification" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.docuverse.com/blog/donpark/2007/01/18/visual-security-9-block-ip-identification">Don Park&#39;s Daily Habit - Visual Security: 9-block IP Identification</a></h4>
+
+        
+            
+        
+
+        <p>Attractive approach to giving plausible deniability when someone fakes your name posting comments, without having your IP address posted publicly.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/donpark/">don park</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/privacy/">privacy</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://simonwillison.net/2007/Jan/18/visual/" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/3/#9-block-ip-identification" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/jan/11/">&#x27a0;</a> January 11, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="schneier-choosing-secure-passw" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.schneier.com/blog/archives/2007/01/choosing_secure.html">Schneier on Security: Choosing Secure Passwords</a></h4>
+
+        
+            
+        
+
+        <p>Choose better passwords through understanding how brute-crackers work these days.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/bruceschneier/">bruceschneier</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/passwords/">passwords</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/2/#schneier-choosing-secure-passw" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/dec/28/">&#x27a0;</a> December 28, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="backuphddvd_a_t" >
+
+        
+        <a name="003211"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://forum.doom9.org/showthread.php?t=119871">BackupHDDVD, a tool to decrypt AACS protected movies - Doom9&#39;s Forum</a></h4>
+
+        
+
+        <p>It appears that someone has found a way to extract the encryption keys for HD-DVD discs, then rip them.  This doesn&#8217;t render the whole of AACS broken (it was designed to work around broken software), but until the movie industry makes its move, all HD-DVD discs out there today can be ripped.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/aacs/">aacs</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/backuphddvd/">backuphddvd</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/drm/">drm</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/encryption/">encryption</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/hddvd/">hd-dvd</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/jm" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/52/#backuphddvd_a_t" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/dec/20/">&#x27a0;</a> December 20, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="locationbar_fir" >
+
+        
+        <a name="003203"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="https://addons.mozilla.org/firefox/4014/">Locationbar² | Firefox Add-ons | Mozilla Corporation</a></h4>
+
+        
+
+        <p>Nice plugin for Firefox which simplifies the URL field and emphasizes the hostname of the URL.   Could help users avoid phishing attacks.  Should this be the standard URL display in Firefox?</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/firefox/">firefox</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/plugin/">plugin</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://mozillalinks.org/wp/2006/12/add-another-line-of-defense-to-firefox/" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/51/#locationbar_fir" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2006/dec/18/">&#x27a0;</a> December 18, 2006</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="blowing_chunks" >
+
+        
+        <a name="003195"></a>
+        
+
+        <h4><a class="taggedlink linklink" href="http://blowingchunks.blogspot.com/2006/12/marketing-before-security.html">Blowing Chunks: Marketing Before Security</a></h4>
+
+        
+
+        <p>Because logging you out of your banking website is clearly less important than trying to sell you another credit card.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/fuckwits/">fuckwits</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2006/week/51/#blowing_chunks" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+    <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-8431319264174931";
+/* Leaderboard for GroovyMother */
+google_ad_slot = "3813014872";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="span4">
+            
+            <h4>About This Site</h4>
+
+<p>
+This is an archive of groovmother.com, the old blog run by
+<strong>Rod Begbie</strong> &mdash; A Scottish geek who lives in San Francisco, CA.</p>
+
+<p>I'm the co-founder of <a href="http://sosh.com/">Sōsh</a>, your handy-dandy guide for <a href="http://sosh.com/">things to do in San Francisco this weekend</a>.</p>
+
+<ul>
+    <li><a href="http://begbie.com/">About Rod</a></li>
+    <li><a href="/about/contact/">Contact Rod</a></li>
+    <li><a href="/about/oaq/">Occasionally Asked Questions</a></li>
+</ul>
+
+            
+        </div>
+        <div class="span4">
+            
+
+<div class="sidebartitle">Navigation</div>
+<div class="sidebarcontent">
+    <p><strong>Page 3 of 6</strong></p>
+    <p>
+    <a href="./?page=2">Previous page</a>
+    |
+    <a href="./?page=4">Next page</a>
+    </p>
+</div>
+
+
+
+
+
+        </div>
+        <div class="span4">
+            
+            <h4>Powered By</h4>
+
+<ul>
+    <li><a href="http://www.djangoproject.com/">Django</a></li>
+    <li><a href="http://nginx.net/">nginx</a></li>
+    <li><a href="http://www.python.org/">Python</a></li>
+    <li><a href="http://typekit.com/colophons/oar7yon">Typekit</a></li>
+    <li><a href="http://www.vpslink.com/?ref=MGSB0S">VPSLink</a></li>
+</ul>
+
+            
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1288 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Rod Begbie :: Filed under 'programming'</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script pagespeed_no_defer="" type="text/javascript" src="//use.typekit.net/oar7yon.js"></script>
+    <script pagespeed_no_defer="" type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="/fontawesome/css/font-awesome.css" rel="stylesheet" media="screen">
+    <script src="/bootstrap/js/jquery-1.8.3.js"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body>
+   <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="brand" href="http://begbie.com/">Rod Begbie</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+    <h1>I am the ghost of groovymother.com. Woooooo!</h1>
+
+    <div class="row">
+        <div class="span12">
+          <div class="alert">
+            <p>This is an old page from <a href="http://begbie.com/">Rod Begbie</a>'s blog.  It's only here
+                to stop linkrot. No new content will be added to this site.  Check out <a href="http://begbie.com/">begbie.com</a>
+                to find where I'm posting stuff these days.
+            </p>
+          </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span12">
+            <h2>Filed under 'programming'</h2>
+                
+
+    
+
+
+
+<h3 class="date"><a href="/2011/aug/23/">&#x27a0;</a> August 23, 2011</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="abstractsingletonproxyfactoryb" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://static.springsource.org/spring/docs/2.5.x/api/org/springframework/aop/framework/AbstractSingletonProxyFactoryBean.html">AbstractSingletonProxyFactoryBean (Spring Framework API 2.5)</a></h4>
+
+        
+            
+        
+
+        <p>This is real.  Also, why I&#8217;m glad I don&#8217;t program in Java any more.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/enterprisey/">enterprisey</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/holyshit/">holy shit!</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/java/">java</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/makethehurtingstop/">make the hurting stop</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2011/week/34/#abstractsingletonproxyfactoryb" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2010/sep/27/">&#x27a0;</a> September 27, 2010</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="users-guide-websites-part-1-if" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://revdancatt.com/2010/09/27/a-users-guide-to-websites-part-1-if-it-wasnt-broken-why-fix-it-2/">A user&#39;s guide to websites, part 1: If it wasn&#39;t broken why fix it?</a></h4>
+
+        
+            
+        
+
+        <p>Fab post by Rev Dan Catt which handily summarises why I ignore anyone that ever uses the &#8220;#fail&#8221; hashtag on Twitter.</p>
+
+<p>“Can’t you just give us the option to continue using the old version, it’s just a check-box and you have all the old code anyway. I manage the Databases for my company so I know its not that hard!”</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/revdancatt/">rev dan catt</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/scaling/">scaling</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/software/">software</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/kellan/status/25717288821" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2010/week/39/#users-guide-websites-part-1-if" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2010/jul/02/">&#x27a0;</a> July 2, 2010</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="commit-message-generator" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://whatthecommit.com/">Commit Message Generator</a></h4>
+
+        
+            
+        
+
+        <p>For those times when you don&#8217;t know what to put in your commit message.  &#8220;oops, forgot to add the file&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/funny/">funny</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/geekery/">geekery</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/sourcecontrol/">source control</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/lmorchard/status/17575102100" title="I found this link at...">via</a> |
+                
+                
+                    <a href="/2010/jul/02/commit-message-generator/#comments">1 comment</a> |
+                
+                <a rel="bookmark" href="/2010/week/26/#commit-message-generator" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2010/mar/03/">&#x27a0;</a> March 3, 2010</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="2010-cwesans-top-25-most-dange" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://cwe.mitre.org/top25/">2010 CWE/SANS Top 25 Most Dangerous Programming Errors</a></h4>
+
+        
+            
+        
+
+        <p>Every programmer should read this list now.  If you don&#8217;t have a high-level understanding of all of these (and a deep understanding of the ones that affect the platform you build on), you&#8217;re dangerous.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/cwe/">cwe</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/sans/">sans</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/security/">security</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/softwareengineering/">software engineering</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://delicious.com/nelson" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2010/week/9/#2010-cwesans-top-25-most-dange" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2010/jan/07/">&#x27a0;</a> January 7, 2010</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="postentry entry">
+        
+        <h4>Don&#8217;t Be Cute with Your Test Data</h4>
+        <blockquote>
+<p><a href="http://twitter.com/97TEPSK/status/7482902106" title="Twitter / 97 Things: Contributions selected to  ...">Exciting news</a> to start my day.  A piece I contributed to O&#8217;Reilly&#8217;s forthcoming <a href="http://amazon.com/gp/product/0596809484/?tag=groovymother-20" title="Amazon.com: 97 Things Every Programmer Should Know: Collective Wisdom from the Experts">97 Things Every Programmer Should Know</a> has been picked for inclusion in the book.  I&#8217;m &#8220;published&#8221;!</p>
+</blockquote>
+
+<blockquote>
+<p>Below is my piece.  The opening example isn&#8217;t <em>exactly</em> historically accurate, but it&#8217;s pretty close to something that almost got me fired from my first job!</p>
+</blockquote>
+
+<p><em>It was getting late. I was throwing in some placeholder data to test the page layout I&#8217;d been working on.</em></p>
+
+<p><em>I appropriated the members of The Clash for the names of users. Company names? Song titles by the Sex Pistols would do. Now I needed some stock ticker symbols — just some four letter words in capital letters.</em></p>
+
+<p><em>I used <strong>those</strong> four letter words.</em></p>
+
+<p><em>It seemed harmless. Just something to amuse myself, and maybe the other developers the next day before I wired up the real data source.</em></p>
+
+<p><em>The following morning, a project manager took some screenshots for a presentation.</em></p>
+
+<p>Programming history is littered with these kinds of war stories. Things that developers and designers did &#8220;that no one else would see&#8221; which unexpectedly became visible.</p>
+
+<p>The leak type can vary but, when it happens, it can be deadly to the person, team, or company responsible. Examples include:</p>
+
+<ul>
+<li>During a status meeting, a client clicks on an button which is as yet unimplemented. They are told: &#8220;Don&#8217;t click that again, you moron.&#8221;</li>
+<li>A programmer maintaining a legacy system has been told to add an error dialog, and decides to use the output of existing behind-the-scenes logging to power it. Users are suddenly faced with messages such as &#8220;Holy database commit failure, Batman!&#8221; when something breaks.</li>
+<li>Someone mixes up the test and live administration interfaces, and does some &#8220;funny&#8221; data entry. Customers spot a $1m &#8220;Bill Gates-shaped personal massager&#8221; on sale in your online store.</li>
+</ul>
+
+<p>To appropriate the old saying that &#8220;a lie can travel halfway around the world while the truth is putting on its shoes,&#8221; in this day and age a screw-up can be Dugg, Twittered, and Flibflarbed before anyone in the developer&#8217;s timezone is awake to do anything about it.</p>
+
+<p>Even your source code isn&#8217;t necessarily free of scrutiny. In 2004, when a tarball of the Windows 2000 source code made its way onto file sharing networks, some folks merrily grepped through it for profanity, insults, and <a href="http://www.kuro5hin.org/story/2004/2/15/71552/7795">other funny content</a>. (The comment // <span class="caps">TERRIBLE</span> <span class="caps">HORRIBLE</span> NO <span class="caps">GOOD</span> <span class="caps">VERY</span> <span class="caps">BAD</span> <span class="caps">HACK</span> has, I will admit, become appropriated by me from time to time since!)</p>
+
+<p>In summary, when writing any text in your code — whether comments, logging, dialogs, or test data — always ask yourself how it will look if it becomes public. It will save some red faces all round.</p>
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/97things/">97 things</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/testdata/">test data</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/writing/">writing</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                <a href="/2010/jan/07/dont-be-cute-your-test-data/#comments">0 comments</a> |
+                <a rel="bookmark" href="/2010/jan/07/dont-be-cute-your-test-data/" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2009/aug/26/">&#x27a0;</a> August 26, 2009</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="episodes-timing-web-pages" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://stevesouders.com/episodes/index.php">Episodes: for timing web pages</a></h4>
+
+        
+            
+        
+
+        <p>Framework for tracking web performance on end-user machines, from Steve Souders, author of &#8220;High Performance Web Sites&#8221;.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/episodes/">episodes</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/performance/">performance</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/stevesouders/">steve souders</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2009/week/34/#episodes-timing-web-pages" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="john-resig-deep-profiling-jque" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://ejohn.org/blog/deep-profiling-jquery-apps/">Deep Profiling jQuery Apps</a></h4>
+
+        
+            
+        
+
+        <p>Fell into my lap serendipitously this afternoon, as I was thinking about the very issue of speeding up user-side code.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/javascript/">javascript</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/johnresig/">john resig</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/profiling/">profiling</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/defunkt/status/3560974911" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2009/week/34/#john-resig-deep-profiling-jque" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2009/jul/31/">&#x27a0;</a> July 31, 2009</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="anatomy-feature" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://inessential.com/2009/07/30/anatomy_of_a_feature">Anatomy of a feature</a></h4>
+
+        
+            
+        
+
+        <p>Great description of all the thought that is needed for &#8220;a quick feature&#8221;.  Just gone through implementing one of these this evening!</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/designishardletsgoshopping/">design is hard let&#39;s go shopping</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/softwaredevelopment/">software development</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2009/week/30/#anatomy-feature" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2009/may/29/">&#x27a0;</a> May 29, 2009</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="origin-ada-lovelace" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://sydneypadua.com/2dgoggles/the-origin-about/">The Origin of Ada Lovelace</a></h4>
+
+        
+            
+        
+
+        <p>Fantastic comic strip on the origin of the first programmer.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/adalovelace/">ada lovelace</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/comics/">comics</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://twitter.com/hmason/statuses/1964654837" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2009/week/21/#origin-ada-lovelace" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2009/apr/21/">&#x27a0;</a> April 21, 2009</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="some-notes-distributed-key-sto" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://randomfoo.net/2009/04/20/some-notes-on-distributed-key-stores">Some Notes on Distributed Key Stores</a></h4>
+
+        
+            
+        
+
+        <p>Leonard Lin&#8217;s summary of &#8220;the market&#8221; of distributed key stores.  I haven&#8217;t needed to do anything terribly large-scale yet, so redis has been Good Enough for me.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/databases/">databases</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/distributedkeystores/">distributed key stores</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://delicious.com/jm" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2009/week/16/#some-notes-distributed-key-sto" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/nov/01/">&#x27a0;</a> November 1, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="lbrandycom-demotivating-good-p" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://lbrandy.com/blog/2008/10/demotivating-a-good-programmer/">lbrandy.com : Demotivating a (Good) Programmer</a></h4>
+
+        
+            
+        
+
+        <p>Posted without comment.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/management/">management</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/pip" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/43/#lbrandycom-demotivating-good-p" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/oct/04/">&#x27a0;</a> October 4, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="programmers-dont-code" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://rentzsch.com/notes/programmersDontLikeToCode">Programmers Don&#39;t Like to Code</a></h4>
+
+        
+            
+        
+
+        <p>&#8220;Programmers don’t like coding, they like problem solving.&#8221;  Yes!  Coding is that dull chore between solving a problem and finding out if your solution works.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://delicious.com/dsandler" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/39/#programmers-dont-code" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/sep/29/">&#x27a0;</a> September 29, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="hadoop-python-happy" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://code.google.com/p/happy/">Hadoop + Python = Happy</a></h4>
+
+        
+            
+        
+
+        <p>Framework that combines Jython and Hadoop to make writing distributed mapreduce in Python easy.  This might finally get me to dive into Hadoopyness.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/hadoop/">hadoop</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/jython/">jython</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/python/">python</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://delicious.com/joshua" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/39/#hadoop-python-happy" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/jul/31/">&#x27a0;</a> July 31, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="its-different-set-rules-daily-" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://thedailywtf.com/Articles/Its-a-Different-Set-of-Rules.aspx">It&#39;s a Different Set of Rules - The Daily WTF</a></h4>
+
+        
+            
+        
+
+        <p>Forwarded to me by a co-worker after a grammar argument.  &#8220;The comma is supposed to go inside the quotes.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/grammar/">grammar</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/wtf/">WTF‽</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/30/#its-different-set-rules-daily-" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/jul/08/">&#x27a0;</a> July 8, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="protocol-buffers-googles-data-" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://google-opensource.blogspot.com/2008/07/protocol-buffers-googles-data.html">Protocol Buffers: Google&#39;s Data Interchange Format</a></h4>
+
+        
+            
+        
+
+        <p>A smidgen of Google&#8217;s secret sauce &#8212; a lighter-weight-than-XML data interchange format, with heavily optimized cross-language serialization routines.  Just the thing for shuttling and persisting data.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/google/">google</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/protocolbuffers/">protocol buffers</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/jm" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/27/#protocol-buffers-googles-data-" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="greatest-bug-all" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://wilshipley.com/blog/2008/07/pimp-my-code-part-15-greatest-bug-of.html">The Greatest Bug of All</a></h4>
+
+        
+            
+        
+
+        <p>Or &#8220;Why you need to understand operating system fundamentals if you want to ship end-user software&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/debugging/">debugging</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/jessicaalba/">jessica alba</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/osx/">os x</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/dsandler" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/27/#greatest-bug-all" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/jul/05/">&#x27a0;</a> July 5, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="queue-everything-and-delight-e" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://decafbad.com/blog/2008/07/04/queue-everything-and-delight-everyone">Queue everything and delight everyone</a></h4>
+
+        
+            
+        
+
+        <p>Good thoughts from Les Orchard &#8212; Your webapps don&#8217;t have to do all your work the second a user clicks the button on a form. Queue up tasks and respond quickly, and everyone wins.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/lmorchard/">l.m.orchard</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/queues/">queues</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/26/#queue-everything-and-delight-e" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2008/mar/18/">&#x27a0;</a> March 18, 2008</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="classnamer" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.classnamer.com/">ClassNamer</a></h4>
+
+        
+            
+        
+
+        <p>&#8220;Can&#8217;t think of a good class name? Try this&#8221;  Also handy for filling in status reports.  &#8220;This week, I optimized the WritableCommandVector.&#8221;</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/funny/">funny</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/random/">random</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://del.icio.us/deusx" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2008/week/11/#classnamer" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+<h3 class="date"><a href="/2007/dec/26/">&#x27a0;</a> December 26, 2007</h3>
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="spiderworks-learn-objective-c" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://www.spiderworks.com/books/learnobjc.php">SpiderWorks: Learn Objective-C on the Macintosh by Mark Dalrymple and Scott Knaster</a></h4>
+
+        
+            
+        
+
+        <p>I&#8217;m giving Mac programming a go over the festive break &#8212; This seems to be a good (cheap) e-book to get me started with Objective C.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/objectivec/">objective-c</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/osx/">os x</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/52/#spiderworks-learn-objective-c" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+    
+
+
+
+
+<div class="row">
+    <div class="span12">
+
+
+    
+    <div class="well" id="cocoa-dev-central-learn-cocoa" >
+
+        
+
+        <h4><a class="taggedlink linklink" href="http://cocoadevcentral.com/d/learn_cocoa/">Cocoa Dev Central: Learn Cocoa</a></h4>
+
+        
+            
+        
+
+        <p>Mega-wicked-simple &#8220;getting started with Cocoa&#8221; tutorial.</p>
+
+        <div class="row-fluid">
+            <div class="span10">
+                
+                    Filed under
+                    
+                        : <a rel="tag" class="tag" href="/tag/cocoa/">cocoa</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/osx/">os x</a>
+                    
+                        : <a rel="tag" class="tag" href="/tag/programming/">programming</a>
+                    
+                
+            </div>
+            <div class="span2" style="text-align: right;">
+                
+                    <a rel="via" href="http://ranchero.com/?comments=1&amp;postid=1781" title="I found this link at...">via</a> |
+                
+                
+                    
+                
+                <a rel="bookmark" href="/2007/week/52/#cocoa-dev-central-learn-cocoa" title="Permanent link to this entry">&#x2732;</a>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</div>
+</div>
+
+
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="span12">
+            
+    <div align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-8431319264174931";
+/* Leaderboard for GroovyMother */
+google_ad_slot = "3813014872";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="span4">
+            
+            <h4>About This Site</h4>
+
+<p>
+This is an archive of groovmother.com, the old blog run by
+<strong>Rod Begbie</strong> &mdash; A Scottish geek who lives in San Francisco, CA.</p>
+
+<p>I'm the co-founder of <a href="http://sosh.com/">Sōsh</a>, your handy-dandy guide for <a href="http://sosh.com/">things to do in San Francisco this weekend</a>.</p>
+
+<ul>
+    <li><a href="http://begbie.com/">About Rod</a></li>
+    <li><a href="/about/contact/">Contact Rod</a></li>
+    <li><a href="/about/oaq/">Occasionally Asked Questions</a></li>
+</ul>
+
+            
+        </div>
+        <div class="span4">
+            
+
+<div class="sidebartitle">Navigation</div>
+<div class="sidebarcontent">
+    <p><strong>Page 1 of 3</strong></p>
+    <p>
+    
+    
+    <a href="./?page=2">Next page</a>
+    </p>
+</div>
+
+
+
+
+
+        </div>
+        <div class="span4">
+            
+            <h4>Powered By</h4>
+
+<ul>
+    <li><a href="http://www.djangoproject.com/">Django</a></li>
+    <li><a href="http://nginx.net/">nginx</a></li>
+    <li><a href="http://www.python.org/">Python</a></li>
+    <li><a href="http://typekit.com/colophons/oar7yon">Typekit</a></li>
+    <li><a href="http://www.vpslink.com/?ref=MGSB0S">VPSLink</a></li>
+</ul>
+
+            
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
