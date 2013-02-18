@@ -1,2 +1,5 @@
 ModPagespeedEnableFilters insert_ga
 ModPagespeedAnalyticsID UA-67759-9
+
+Redirect 301 /index.atom http://blog.begbie.com/rss
+Redirect 301 /atom.xmlhttp://blog.begbie.com/rss
