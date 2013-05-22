@@ -602,7 +602,7 @@ h4,
 h5,
 h6 {
   margin: 10.5px 0;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
   line-height: 21px;
   color: #333333;
@@ -4706,7 +4706,7 @@ blockquote small {
 .navbar .brand {
   padding: 18px 20px 16px;
   font-size: 26px;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
 }
 .navbar .brand:hover {
@@ -4715,7 +4715,7 @@ blockquote small {
 .navbar .nav > li > a {
   padding: 20px 20px 14px;
   font-size: 20px;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
   text-shadow: none;
 }
@@ -4729,7 +4729,7 @@ blockquote small {
 .navbar .navbar-text {
   margin: 19px 20px 0;
   font-size: 20px;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
   line-height: inherit;
 }
@@ -4755,7 +4755,7 @@ blockquote small {
   color: #ffffff;
 }
 .navbar .dropdown-menu li > a {
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
 }
 .navbar .nav > li > .dropdown-menu::before,
@@ -4807,7 +4807,7 @@ div.subnav .nav > li > a {
   padding: 12px 12px 10px;
   border-color: transparent;
   background-color: transparent;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
   color: #ffffff;
 }
@@ -4984,7 +4984,7 @@ div.subnav.subnav-fixed {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
   text-shadow: none;
 }
@@ -5028,7 +5028,7 @@ div.subnav.subnav-fixed {
 }
 legend {
   border-bottom: none;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", serif;
+  font-family: 'Roboto Slab', serif;
   font-weight: normal;
   color: #333333;
 }
